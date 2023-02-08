@@ -1,0 +1,15 @@
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\bin\Debug\net6.0\lection01_Hellow.exe
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\bin\Debug\net6.0\lection01_Hellow.deps.json
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\bin\Debug\net6.0\lection01_Hellow.runtimeconfig.json
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\bin\Debug\net6.0\lection01_Hellow.dll
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\bin\Debug\net6.0\lection01_Hellow.pdb
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.csproj.AssemblyReference.cache
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.AssemblyInfoInputs.cache
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.AssemblyInfo.cs
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.csproj.CoreCompileInputs.cache
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.dll
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\refint\lection01_Hellow.dll
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.pdb
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\lection01_Hellow.genruntimeconfig.cache
+C:\Users\NURLAN\Desktop\C#_lessons_1\lection01_Hellow\obj\Debug\net6.0\ref\lection01_Hellow.dll
